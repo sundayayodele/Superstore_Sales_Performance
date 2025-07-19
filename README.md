@@ -1,64 +1,43 @@
-📊 Superstore Sales Performance Dashboard
-Overview
-This Power BI dashboard analyzes the performance of a fictional retail business using historical sales data. It provides insights into category-wise sales, regional trends, discount impacts, and profit margins.
+# 📊 Superstore Sales Performance Dashboard
 
-📌 Objectives
-Identify top-performing product categories.
+This Power BI dashboard analyzes sales, profit, and discount patterns across various product categories and regions. It aims to guide pricing, marketing, and inventory decisions.
 
-Evaluate how discount levels affect sales and profitability.
+---
 
-Uncover regional sales trends and patterns.
+## 📌 Objectives
+- Identify the most profitable product segments.
+- Explore discount thresholds that result in loss.
+- Examine sales by category, region, and segment.
 
-Support data-driven decisions for pricing and inventory planning.
+---
 
-🧰 Tools & Technologies
-Power BI
+## 🔍 Key Insights
+- **Technology** generated the highest sales and profit.
+- **Furniture** yielded the lowest profit overall.
+- Discounts between **0–30%** led to positive profits.
+- Discounts above **40%** typically caused losses.
 
-Microsoft Excel
+---
 
-DAX (for calculated columns and measures)
+## 📊 Tools Used
+- Power BI
+- Microsoft Excel
+- DAX (for custom measures)
 
-📂 Dataset
-Source: Sample Superstore Dataset – Kaggle
+---
 
-Records: ~10,000+ rows of order transactions
+## 📈 Metrics & KPIs
+- Total Sales
+- Total Profit
+- Average Discount
+- Profit Margin
+- Profit Status (New Column)
+- Discount Category (Low, Medium, High)
 
-Fields include: Sales, Profit, Discount, Region, Segment, Product Category, Quantity
+---
 
-📈 KPIs Tracked
-🔸 Total Sales
+## 🖼️ Dashboard Preview
 
-🔸 Total Profit
-
-🔸 Average Discount
-
-🔸 Profit Margin
-
-🔸 Quantity Sold
-
-🔸 Order Count
-
-🔍 Key Insights
-Technology is the highest-performing category in both sales and profit.
-
-Furniture contributes the least profit across regions.
-
-Discounts between 0%–30% drive optimal profitability.
-
-Discounts above 40% result in loss-making transactions.
-
-Products sold at 0% discount tend to generate the most profit.
-
-🖼️ Dashboard Preview
-Visual	Description
-KPI Summary	Total Sales, Profit, Discount, Quantity
-Sales by Category & Discount	Reveals profitability patterns based on discount level
-Profit Status	Compares count of profitable vs. loss orders
-
-📄 View Full Report
-📥 Download the PDF Report
-
-🔗 Links
-📌 Project Repository
-
-🔗 LinkedIn – Sunday Ayodele
+| Visual | Description |
+|--------|-------------|
+| KPI Tiles | Total Sales, Profit, Discount, and
