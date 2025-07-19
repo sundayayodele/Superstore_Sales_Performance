@@ -1,43 +1,62 @@
 # 📊 Superstore Sales Performance Dashboard
 
-This Power BI dashboard analyzes sales, profit, and discount patterns across various product categories and regions. It aims to guide pricing, marketing, and inventory decisions.
+This Power BI dashboard analyzes sales, profit, and discount patterns across various product categories and regions. It supports decisions on pricing, promotions, and inventory management.
 
 ---
 
 ## 📌 Objectives
-- Identify the most profitable product segments.
-- Explore discount thresholds that result in loss.
-- Examine sales by category, region, and segment.
+- Identify profitable product categories.
+- Examine the impact of discount levels on profit.
+- Understand regional and segment sales performance.
 
 ---
 
 ## 🔍 Key Insights
-- **Technology** generated the highest sales and profit.
-- **Furniture** yielded the lowest profit overall.
-- Discounts between **0–30%** led to positive profits.
-- Discounts above **40%** typically caused losses.
+- **Technology** generated the highest profit and sales.
+- **Furniture** contributed the lowest profit across regions.
+- Discounts of **0–30%** resulted in positive profits.
+- Discounts **above 40%** typically caused losses.
 
 ---
 
-## 📊 Tools Used
-- Power BI
-- Microsoft Excel
-- DAX (for custom measures)
-
----
-
-## 📈 Metrics & KPIs
+## 📈 KPIs & Metrics
 - Total Sales
 - Total Profit
 - Average Discount
 - Profit Margin
-- Profit Status (New Column)
 - Discount Category (Low, Medium, High)
+- Profit Status (Profit / Loss)
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Visuals
 
-| Visual | Description |
-|--------|-------------|
-| KPI Tiles | Total Sales, Profit, Discount, and
+- KPI Tiles Summary
+- Sales by Category & Discount Bar Chart
+- Profit Status Pie Chart
+- Sales by Region
+
+---
+
+## 🧰 Tools Used
+- Power BI
+- Excel
+- DAX for custom calculations
+
+---
+
+## 📄 View Full Report
+🔗 [View PDF Dashboard Report](https://drive.google.com/file/d/1LXzCv7ZCDGnWkVYszw0RON2R30CIGv7x/view?usp=sharing)
+
+---
+
+## 📌 Project Files
+- PDF: `SUPPERSTORE SALES PERFORMANCE.pdf`
+- Screenshot: `superstore_dashboard.png`
+
+---
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sundayayodele)
+- [GitHub Portfolio](https://github.com/sundayayodele)
+
