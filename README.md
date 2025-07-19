@@ -51,7 +51,7 @@ This Power BI dashboard analyzes sales, profit, and discount patterns across var
 ---
 
 ## 📌 Project Files
-- PDF: `SUPPERSTORE SALES PERFORMANCE.pdf`
+- PDF: `SUPERSTORE SALES PERFORMANCE.pdf`
 - Screenshot: `superstore_dashboard.png`
 
 ---
